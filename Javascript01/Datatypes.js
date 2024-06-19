@@ -20,4 +20,9 @@ let isloggedIn  = false
 
 // object 
 
-console.log(typeof "aman");
+// console.log(typeof "aman");
+
+// console.log(typeof undefined);
+// console.log(typeof null); // object
+
+
